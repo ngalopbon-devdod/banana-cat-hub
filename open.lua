@@ -23,7 +23,7 @@ end)
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 repeat wait() until game:IsLoaded()
 local Window = Fluent:CreateWindow({
-    Title = "banana hub USB tổng with quocdungskibidi",
+    Title = "ANDZHUB 123",
     SubTitle = "Blox Fruit",
     TabWidth = 157,
     Size = UDim2.fromOffset(450, 300),
@@ -40,9 +40,9 @@ local Tabs = {
 }
     Tabs.Main0:AddButton({
     Title = "Discord",
-    Description = "banana hub contruy",
+    Description = "Hack Roblox Top 1 Community",
     Callback = function()
-        setclipboard("https://discord.gg/chuoihub")
+        setclipboard("https://discord.gg/r7SXw73a6r")
     end
 })
     
